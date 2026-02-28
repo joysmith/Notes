@@ -13,9 +13,9 @@ python --version
 
 1. Install docker for window [click me](https://docs.docker.com/desktop/setup/install/windows-install/)
 
-2.
+2. launch docker: Go to Volumes--> Create Volume--> Text box: "n8n_data" --> Create
 
-3.
+3. In docker: Go to Images--> Search image to run--> "n8nio"--> pull
 
 4.
 
@@ -27,4 +27,15 @@ python --version
 
 1. Download and install Ollama locally [Click me](https://ollama.com/download)
 
-2.
+```sh
+irm https://ollama.com/install.ps1 | iex
+```
+
+2. In terminal run
+
+```sh
+ollama
+```
+
+3. Sign In, page will open. Sign In with google account
+4.
