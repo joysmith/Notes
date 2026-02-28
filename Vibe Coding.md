@@ -17,7 +17,18 @@ python --version
 
 3. In docker: Go to Images--> Search image to run--> "n8nio"--> pull
 
-4.
+4. In docker: Go to Images--> **n8nio/n8n**--> run
+
+   - Optional setting: Container name: n8n
+   - Ports: 5678
+   - click on run
+   - Click on localhost link
+   - Set up owner account
+     - email: joysmith271@gmail.com
+     - password: Jo123456789
+
+-
+-
 
 5.
 
