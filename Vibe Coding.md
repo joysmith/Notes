@@ -32,7 +32,7 @@ python --version
 
 5.
 
-6.
+Note: Install WSL
 
 ### Ollama installation
 
