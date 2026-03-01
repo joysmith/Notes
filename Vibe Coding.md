@@ -68,11 +68,14 @@ ollama
 
 2. Go to n8n the  select, + -->workflow --> personal 
 <img src="./Assets/Images/Part 2/01.png" width="700">
+
 3. Click on "Add first step" then in search: chat--> On new chat event
+
 <img src="./Assets/Images/Part 2/02.png" width="700">
 <img src="./Assets/Images/Part 2/03.png" width="700">
 
 4. In Chat click on +, then in search: Agent--> AI agent
+
 <img src="./Assets/Images/Part 2/04.png" width="700">
 
 5. In "AI agent" click on "add chat model", then in search: Open AI---> 
@@ -89,11 +92,12 @@ ollama
 6. Open chat gpt and type prompt "create a table format data for 100 patient with different hypertension reading", then click on copy.
 7. Go to google sperad sheet and paste data in it. or type [sheet.new](sheet.new)
 8. In n8n, "AI agent" click on memory, then in search select "simple memory"
+
 <img src="./Assets/Images/Part 2/08.png" width="700">
 <img src="./Assets/Images/Part 2/09.png" width="700">
 
 9. In n8n. "AI agent" click on tool, then in search: google --> google sheet tool
-    - 
+
 
 10. Run work flow
 <img src="./Assets/Images/Part 2/10.png" width="700">
