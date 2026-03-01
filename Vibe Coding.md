@@ -67,6 +67,7 @@ ollama
   - user: joy7
 
 2. Go to n8n the  select, + -->workflow --> personal 
+<img src="assets/images/1.png" width="700">
 3. Click on "Add first step" then in search: chat--> On new chat event
 4. In Chat click on +, then in search: Agent--> AI agent
 5. In "AI agent" click on "add chat model", then in search: Open AI---> 
