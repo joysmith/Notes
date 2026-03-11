@@ -50,6 +50,11 @@ irm https://ollama.com/install.ps1 | iex
 ollama
 ```
 
+to check bindng port type
+```sh
+ollama start
+```
+
 3. Sign In, page will open. Sign In with google account
 
 
