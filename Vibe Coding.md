@@ -84,6 +84,12 @@ ollama
     - copy and paste the API key to 
     - Model select--> gpt 4.0 mini
 
+OR
+
+5. In "AI agent" click on "add chat model", then in search: OLLAMA---> 
+    - In parameter window create new credentials
+    - "http://host.docker.internal:11434"
+
 <img src="./Assets/Images/Part 2/05.png" width="700">
 <img src="./Assets/Images/Part 2/06.png" width="700">
 <img src="./Assets/Images/Part 2/07.png" width="700">
